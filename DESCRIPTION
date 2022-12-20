@@ -1,0 +1,14 @@
+Package: sundry
+Type: Package
+Title: A Variety of Sundry Functions
+Version: 0.0.1
+Author: Aron Strandberg
+Maintainer: Aron Strandberg <aron.olof.strandberg@gmail.com>
+Description: Various convenience functions that may or may not be useful.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
